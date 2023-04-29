@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "594656602649",
+    "project_id": "lets-chat-df665",
+    "storage_bucket": "lets-chat-df665.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594656602649:android:4547a9d4f9a6e9cc909888",
+        "android_client_info": {
+          "package_name": "com.example.chattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594656602649-cs2ljbso0fbl5m9a535tr2bsnitgk6m9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chattingapp",
+            "certificate_hash": "0685b43c6b54f4278e432d565f7f163f8200a3b8"
+          }
+        },
+        {
+          "client_id": "594656602649-r907rbd6e51fqm1luove7fpmd89qj5eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmC8zcZscc5WT5IMTuiNFJo6LZNmLvGSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594656602649-r907rbd6e51fqm1luove7fpmd89qj5eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
